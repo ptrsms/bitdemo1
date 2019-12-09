@@ -1,0 +1,58 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/angular"
+    },
+    "isSymlink": false,
+    "hash": "ff9bc2ee2e58fda705df24b3be15badf367346ef"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "button"
+    },
+    "isSymlink": true,
+    "hash": "7b7fcc78d6cd1507925b769b1386ced3683f99c7"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "jumbotron"
+    },
+    "isSymlink": true,
+    "hash": "49109f06c2d3349a7474b2171a1d8445f0770cf3"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "toolbar"
+    },
+    "isSymlink": true,
+    "hash": "e5bd72ae4b9a4659d7b2cc1d8162cb49c14dc5c1"
+  },
+  {
+    "id": {
+      "scope": "ptrsms.eyes",
+      "name": "button"
+    },
+    "isSymlink": false,
+    "hash": "bdbd4a613e71d2912708febf57498daf597348eb"
+  },
+  {
+    "id": {
+      "scope": "ptrsms.eyes",
+      "name": "toolbar"
+    },
+    "isSymlink": false,
+    "hash": "d49490228343603286b1e39487d88726fe4eb92b"
+  },
+  {
+    "id": {
+      "scope": "ptrsms.eyes",
+      "name": "jumbotron"
+    },
+    "isSymlink": false,
+    "hash": "e244688c3919fcc49e374342b9ae72280135c668"
+  }
+]
